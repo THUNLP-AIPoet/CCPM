@@ -38,7 +38,7 @@ CCPM is a large Chinese classical poetry matching dataset that can be used for p
 The main task of this dataset is: given a description in modern Chinese, the model is supposed to select one line of Chinese classical poetry from four candidates that semantically match the given description most.
 
 ### Size
-It contains $27,218$ instances in total, which are split into training ($21,778$), validation ($2,720$) and test ($2,720$) sets.
+It contains 27,218 instances in total, which are split into training (21,778), validation (2,720) and test (2,720) sets.
 
 ### Format
 
