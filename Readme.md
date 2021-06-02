@@ -1,6 +1,6 @@
-# CCPT-MC
+# CCPM-MC
 ### 简介
-中国古典诗歌翻译数据集（Chinese Classical Poetry Translation Dataset-Multiple Choice），给定中国古典诗歌的现代文翻译，要求从四句诗中挑选出这句现代文翻译对应的那一句诗歌。
+中国古典诗歌翻译数据集（Chinese Classical Poetry Matching Dataset-Multiple Choice），给定中国古典诗歌的现代文翻译，要求从四句诗中挑选出这句现代文翻译对应的那一句诗歌。
 ### 数据规模
 训练集: 21,778，验证集: 2,720，测试集: 2,720
 ### 数据格式描述
