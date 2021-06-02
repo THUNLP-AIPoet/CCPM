@@ -42,7 +42,7 @@ It contains 27,218 instances in total, which are split into training (21,778), v
 
 ### Format
 
-Each instance is composed of `translation` (the description in modern Chinese, a string), choice (four candidate lines of Chinese classical poetry, a list)  and `answer` (the index of the correct line, an integer between 0 and 3).
+Each instance is composed of `translation` (the description in modern Chinese, a string), `choice` (four candidate lines of Chinese classical poetry, a list)  and `answer` (the index of the correct line, an integer between 0 and 3).
 
 Here is an example:
 ```
