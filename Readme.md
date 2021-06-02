@@ -1,5 +1,5 @@
 # CCPM
-[中文](#简介)|[English](#Introduction)
+[中文](#简介) | [English](#Introduction)
 
 ### 简介
 中国古典诗歌匹配数据集（Chinese Classical Poetry Matching Dataset），给定中国古典诗歌的现代问描述，要求从候选的四句诗中选出与现代文描述语义匹配的那一句。
