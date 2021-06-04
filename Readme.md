@@ -19,10 +19,10 @@
 ### 引用
 如果您使用了本数据集，请引用以下技术报告：
 ```
-@techreport{li2021CCPM,
+@article{li2021CCPM,
   title = {CCPM: A Chinese Classical Poetry Matching Dataset},
   author = {Li, Wenhao and Qi, Fanchao and Sun, Maosong and Yi, Xiaoyuan and Zhang, Jiarui},
-  institution = {Tsinghua University},
+  journal={arXiv preprint arXiv:2106.01979},
   year = {2021}
 }
 ```
@@ -57,10 +57,10 @@ Here is an example:
 Please cite our technical report if you use this dataset:
 
 ```
-@techreport{li2021CCPM,
+@article{li2021CCPM,
   title = {CCPM: A Chinese Classical Poetry Matching Dataset},
   author = {Li, Wenhao and Qi, Fanchao and Sun, Maosong and Yi, Xiaoyuan and Zhang, Jiarui},
-  institution = {Tsinghua University},
+  journal={arXiv preprint arXiv:2106.01979},
   year = {2021}
 }
 ```
