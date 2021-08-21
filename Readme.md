@@ -29,7 +29,7 @@ python eval.py prediction_file test_private_file
 评测指标为Accuracy，输出结果为字典格式：
 
 ```python
-return 0, {
+return {
         'accuracy': accuracy_score(trues, preds),
     }
 ```
